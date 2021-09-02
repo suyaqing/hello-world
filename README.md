@@ -1,2 +1,2 @@
 # hello-world
-storing random ideas
+this is Yaqing Su
